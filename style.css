@@ -14,7 +14,11 @@ body{
    column-gap: 5%; 
    row-gap: 30px;
 }
-
+a{
+    text-decoration: none;
+    font-weight: 20%;
+    color: blue;
+}
 .avatar img{
     width:200px;
     height:200px;
